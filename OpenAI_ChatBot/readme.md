@@ -1,7 +1,7 @@
 # Chatgpt Chatbot
 Used ChatGPT API 
 
--- REQUIREMENTS
+REQUIREMENTS
 ---
 !pip install langchain
 !pip install faiss-cpu
