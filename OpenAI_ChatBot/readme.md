@@ -1,6 +1,7 @@
 # Chatgpt Chatbot
 Used ChatGPT API 
-- ![img](https://github.com/RAJGUPTA28/Chit-ChatBots/blob/main/OpenAI_ChatBot/imgchat.png)
+
+![img](https://github.com/RAJGUPTA28/Chit-ChatBots/blob/main/OpenAI_ChatBot/imgchat.png)
 
 REQUIREMENTS
 ---
@@ -10,4 +11,4 @@ REQUIREMENTS
 !pip install llama_index
 
 
-![IMG]()
+
