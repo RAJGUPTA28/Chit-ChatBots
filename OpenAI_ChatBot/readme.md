@@ -7,3 +7,6 @@ REQUIREMENTS
 !pip install faiss-cpu
 !pip install openai
 !pip install llama_index
+
+
+![IMG]()
