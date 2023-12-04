@@ -1,7 +1,7 @@
 # Simple Python Chatbot
 
 # Data Format - JSON 
- - {Intents:[] , Responses:[] , tag:}
+
 
 ```
 {
