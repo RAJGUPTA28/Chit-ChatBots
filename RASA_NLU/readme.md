@@ -6,4 +6,4 @@
 - Install Rasa Opensource using ``` pip install rasa==2.6.2 ```
 - Run  ``` rasa init ``` to set up the demo project.
 
-![img]
+![img]()
