@@ -6,4 +6,4 @@
 - Install Rasa Opensource using ``` pip install rasa==2.6.2 ```
 - Run  ``` rasa init ``` to set up the demo project.
 
-![img]()
+![img](https://github.com/RAJGUPTA28/Chit-ChatBots/blob/main/RASA_NLU/rasaachitecture-660x419.png)
